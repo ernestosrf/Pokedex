@@ -15,3 +15,22 @@ main{
     gap: 30px;
     padding: 30px 0;
 }
+footer{
+    font-size: larger;
+    text-align: center;
+    font-style: italic;
+    }
+
+footer a {
+    color: rgb(233, 13, 5);
+    text-decoration: none;
+}
+a:hover {
+    color: black;
+    font-size: 25px;
+}
+footer img{
+    width: 2%;
+    border-radius: 25%;
+    padding-right: 5px;
+}
